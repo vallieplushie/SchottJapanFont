@@ -1,0 +1,28 @@
+{
+    "fontName": "takemitsu",
+    "fontVersion": "0.1",
+    "glyphBBoxes": {
+        "brace": {
+            "bBoxNE": [
+                4.0,
+                0.34
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "gClef": {
+            "bBoxNE": [
+                4.52,
+                2.464
+            ],
+            "bBoxSW": [
+                0.0,
+                -2.752
+            ]
+        },
+    },
+    "glyphsWithAnchors": {
+    }
+}
